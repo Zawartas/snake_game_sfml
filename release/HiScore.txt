@@ -1,0 +1,10 @@
+KobraKai    120
+PlayerOn    110
+Stasio    80
+Hensold    70
+Kaczka    70
+Alan    60
+Kacper    20
+Jola    20
+JanFasol    20
+NoName    10
