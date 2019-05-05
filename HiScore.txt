@@ -1,0 +1,3 @@
+Jola    20
+Kacper    20
+NoName    10
